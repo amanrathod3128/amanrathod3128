@@ -9,4 +9,4 @@
 🔍 Exploring the realms of machine learning, deep learning, and neural networks
 
 
-[![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanrathod3128&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false)](https://github.com/amanrathod3128/github)
+[![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanrathod3128&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false)](https://github.com/amanrathod3128)
